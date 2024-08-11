@@ -39,7 +39,7 @@ function addGrid({ matchUtilities, theme }: any) {
     },
     { values: flattenColorPalette(theme("backgroundColor")), type: "color" }
   );
-}
+} 
 
 const config: Config = {
   content: [
